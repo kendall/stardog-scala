@@ -1,3 +1,3 @@
-# stardog-scala
+# Starla: Stardog Scala Driver Thingie
 
-Hi Mom!
+You probably don't want to be here yet...
