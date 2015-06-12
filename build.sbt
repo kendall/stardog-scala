@@ -8,3 +8,5 @@ libraryDependencies += "net.databinder.dispatch" %% "dispatch-core" % "0.11.2"
 
 libraryDependencies += "com.chuusai" %% "shapeless" % "2.2.1"
 
+libraryDependencies += "io.argonaut" %% "argonaut" % "6.0.4"
+
